@@ -104,7 +104,9 @@ theme: fluid
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/lv-walnut/lv-walnut.github.io.git
+  branch: master
 
 
 
